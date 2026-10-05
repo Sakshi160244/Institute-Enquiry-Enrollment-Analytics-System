@@ -8,6 +8,16 @@ The project combines **Python, Streamlit, MySQL, Aiven Cloud, Excel, and Power B
 
 ---
 
+## Live Application
+
+The Streamlit application is deployed and connected to a cloud-hosted MySQL database.
+
+### [Launch Live Application](https://institute-enquiry-enrollment-analytics-system-by-sakshi-panchal.streamlit.app/)
+
+Explore courses, submit student enquiries, and experience the complete enquiry-to-enrollment workflow.
+
+---
+
 ## Project Overview
 
 Educational institutes receive enquiries from students interested in different courses. Managing these enquiries manually can make it difficult to track follow-ups, conversions, enrollments, payments, and overall business performance.
